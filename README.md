@@ -11,7 +11,8 @@ El proyecto consiste en el estudio del compartamiento de usuario de una empresa 
 
 ## Cantidad de usuarios por evento
 
-https://LUCIACHUMBILE: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@github.com/LUCIACHUMBILE/Test-A-A-B master![image](https://github.com/user-attachments/assets/c2ace4a1-4fcd-4fc7-9cb5-9a9fec45069c)
+![image](https://github.com/user-attachments/assets/29535635-4855-486d-98cb-2cc0344395cc)
+
 
 # Conclusiones
 
